@@ -10,3 +10,7 @@ Example:
 }];
 </code>
 </pre>
+
+![alt tag](https://github.com/mendyEdri/MessageTextView/blob/master/Simulator%20Screen%20Shot%2023%20Dec%202015,%2011.16.02%20AM.png?raw=true)
+
+![alt tag](https://github.com/mendyEdri/MessageTextView/blob/master/Simulator%20Screen%20Shot%2023%20Dec%202015,%2011.15.52%20AM.png?raw=true)
